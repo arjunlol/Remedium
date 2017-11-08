@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
+import Nav from './Nav';
 
 class Write extends Component {
   render() {
     return (
       <div>
+        <Nav />
         <section class="section">
           <div class="container">
             <h1 class="title">
