@@ -14,8 +14,7 @@ class Home extends Component {
 			<br />
 			<div className="has-text-centered">
 				<span className="HomeText">Begin Your Journey to Better Mental Health.</span>
-			</div>
-			
+			</div>			
 		</div>
     );
   }
